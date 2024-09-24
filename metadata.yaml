@@ -1,0 +1,27 @@
+_repo: Navies-of-the-world_74406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Very, Edward W.
+    gutenberg_agent_id: '57489'
+    url: http://www.gutenberg.org/2009/agents/57489
+description: ''
+gutenberg_issued: '2024-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74406'
+language: en
+pgterms:marc904: https://archive.org/details/naviesofworldgiv00veryrich
+pgterms:marc905: 20200626093454very
+pgterms:marc906: '1880'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bJohn Wiley & Sons, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Navies of the world
+url: http://www.gutenberg.org/ebooks/74406
